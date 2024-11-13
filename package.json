@@ -1,0 +1,27 @@
+{
+  "name": "Kenshin AI",
+  "version": "1.0",
+  "description": "",
+  "main": "index.js",
+  "license": "ISC",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Luthfi Joestars",
+  "dependencies": {
+    "@whiskeysockets/baileys": "github:WhiskeySockets/Baileys",
+    "awesome-phonenumber": "^2.64.0",
+    "axios": "^0.24.0",
+    "chalk": "^4.1.2",
+    "cheerio": "latest",
+    "translate-google-api": "^1.0.0-rc.10",
+    "@google/generative-ai": "latest",
+    "file-type": "latest",
+    "jimp": "^0.16.13",
+    "mmmagic": "latest",
+    "node-fetch": "^2.7.0",
+    "moment-timezone": "^0.5.34",
+    "pino": "^8.1.0",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
